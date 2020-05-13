@@ -1,3 +1,0 @@
-# cv
-hello world, let me introduce myself...
-I'm Reinaldo and this is my test repository for hosting my personal site.
